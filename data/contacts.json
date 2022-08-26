@@ -1,0 +1,21 @@
+[    {
+    "name": "Афина",
+    "surname": "Паллада",
+    "email": "iloveaolivetrees@athena.com",
+    "img": "img/001.png",
+    "id": "il11111"
+},
+{
+    "name": "Артур",
+    "surname": "Король",
+    "email": "roundtablesarecool@camelot.com",
+    "img": "img/002.png",
+    "id": "ro22222"
+},
+{
+    "name": "Викинг",
+    "surname": "Викингсон",
+    "email": "vikingsdidnthavehornhelmet@viking.com",
+    "img": "img/003.png",
+    "id": "vi33333"
+}]
